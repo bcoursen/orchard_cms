@@ -41,5 +41,5 @@
 - name: refetch facts
   setup:
 
-- name: reboot if necessary
-  win_reboot:
+#- name: reboot if necessary
+#  win_reboot:
